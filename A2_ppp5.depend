@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553979143 source:c:\users\peter\desktop\a2_ppp5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+
+1554053526 source:d:\2nd semister grade 2\data structures\assignment\a2_20170079_20170081_20170094\a2_p5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+	<chrono>
+
